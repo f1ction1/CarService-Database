@@ -1,0 +1,23 @@
+.evenRow {
+    background-color: #f9f9f9;
+}
+
+.oddRow {
+    background-color: #fff;
+}
+
+td, th {
+    border: 1px solid #ddd !important;
+    padding: 8px;
+    text-align: left;
+}
+
+.clientItem-tr:hover {
+    background-color: #f1f1f1;
+}
+
+table {
+    margin: 0 auto;
+    width: 100%;
+    border-collapse: collapse;
+}

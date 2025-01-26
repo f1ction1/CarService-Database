@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|c:\\users\\game station\\desktop\\vasyl database\\carservicedb\\carservicedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|solutionrelative:carservicedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|c:\\users\\game station\\desktop\\vasyl database\\carservicedb\\carservicedb\\createcommands\\createworkcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|solutionrelative:carservicedb\\createcommands\\createworkcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|c:\\users\\game station\\desktop\\vasyl database\\carservicedb\\carservicedb\\createcommands\\createclientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|solutionrelative:carservicedb\\createcommands\\createclientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|c:\\users\\game station\\desktop\\vasyl database\\carservicedb\\carservicedb\\carservicedb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|solutionrelative:carservicedb\\carservicedb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|c:\\users\\game station\\desktop\\vasyl database\\carservicedb\\carservicedb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|solutionrelative:carservicedb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|c:\\users\\game station\\desktop\\vasyl database\\carservicedb\\carservicedb\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|solutionrelative:carservicedb\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|c:\\users\\game station\\desktop\\vasyl database\\carservicedb\\carservicedb\\services\\workservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|solutionrelative:carservicedb\\services\\workservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|c:\\users\\game station\\desktop\\vasyl database\\carservicedb\\carservicedb\\viewmodels\\clientdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F24B28-B652-42D4-9B6E-D6E1A8C0725E}|CarServiceDb\\CarServiceDb.csproj|solutionrelative:carservicedb\\viewmodels\\clientdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2021,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateWorkCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\CreateCommands\\CreateWorkCommand.cs",
+              "RelativeDocumentMoniker": "CarServiceDb\\CreateCommands\\CreateWorkCommand.cs",
+              "ToolTip": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\CreateCommands\\CreateWorkCommand.cs",
+              "RelativeToolTip": "CarServiceDb\\CreateCommands\\CreateWorkCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:33:41.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateClientCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\CreateCommands\\CreateClientCommand.cs",
+              "RelativeDocumentMoniker": "CarServiceDb\\CreateCommands\\CreateClientCommand.cs",
+              "ToolTip": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\CreateCommands\\CreateClientCommand.cs",
+              "RelativeToolTip": "CarServiceDb\\CreateCommands\\CreateClientCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:33:38.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarServiceDb",
+              "DocumentMoniker": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\CarServiceDb.csproj",
+              "RelativeDocumentMoniker": "CarServiceDb\\CarServiceDb.csproj",
+              "ToolTip": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\CarServiceDb.csproj",
+              "RelativeToolTip": "CarServiceDb\\CarServiceDb.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T12:30:16.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\appsettings.json",
+              "RelativeDocumentMoniker": "CarServiceDb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\appsettings.json",
+              "RelativeToolTip": "CarServiceDb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T12:29:31.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "CarServiceDb\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\Services\\ClientService.cs",
+              "RelativeToolTip": "CarServiceDb\\Services\\ClientService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:40:05.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\ViewModels\\ClientDetailViewModel.cs",
+              "RelativeDocumentMoniker": "CarServiceDb\\ViewModels\\ClientDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\ViewModels\\ClientDetailViewModel.cs",
+              "RelativeToolTip": "CarServiceDb\\ViewModels\\ClientDetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:39:54.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkService.cs",
+              "DocumentMoniker": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\Services\\WorkService.cs",
+              "RelativeDocumentMoniker": "CarServiceDb\\Services\\WorkService.cs",
+              "ToolTip": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\Services\\WorkService.cs",
+              "RelativeToolTip": "CarServiceDb\\Services\\WorkService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:22:58.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\Program.cs",
+              "RelativeDocumentMoniker": "CarServiceDb\\Program.cs",
+              "ToolTip": "C:\\Users\\Game Station\\Desktop\\Vasyl Database\\CarServiceDb\\CarServiceDb\\Program.cs",
+              "RelativeToolTip": "CarServiceDb\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:36:27.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1675,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

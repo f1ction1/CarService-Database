@@ -1,0 +1,22 @@
+.detail-header {
+    color: #333;
+  }
+.detail-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.detail-th {
+    background-color: #f4f4f4;
+}
+
+.deleteClient {
+    margin-bottom: 20px;
+}
+
+.deleteClientContainer {
+    margin: 0;
+    text-align: right;
+}
+

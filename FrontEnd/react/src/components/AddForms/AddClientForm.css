@@ -1,0 +1,20 @@
+.form-label {
+    margin-left: 0px;
+}
+
+.button-add {
+    text-align: left;    
+}
+
+.button-add button {
+    width: 200px;
+    height: 35px; 
+}
+
+.addModalFooter {
+    margin-top: 50px;
+}
+
+.addClient-content {
+    max-width: 600px !important;
+}
